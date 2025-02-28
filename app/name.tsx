@@ -4,7 +4,7 @@ export function NameTransition() {
   return (
     <ViewTransition>
       <h1 className="font-medium pt-12">
-        <span className="sr-only">Lee Robinson</span>
+        <span className="sr-only">Sri Ram Reddy</span>
         <span
           aria-hidden="true"
           className="block overflow-hidden group relative"
