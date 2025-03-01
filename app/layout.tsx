@@ -7,15 +7,15 @@ import { unstable_ViewTransition as ViewTransition } from 'react';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://leerob.com'),
+  metadataBase: new URL('https://baireddy.vercel.app/'),
   alternates: {
     canonical: '/',
   },
   title: {
-    default: 'Lee Robinson',
-    template: '%s | Lee Robinson',
+    default: 'Sri Ram Reddy',
+    template: '%s | Sri Ram Reddy',
   },
-  description: 'Frontend developer, optimist, community builder.',
+  description: 'Backend Developer, Finance , Computers.',
 };
 
 export default function RootLayout({
@@ -40,10 +40,10 @@ export default function RootLayout({
 
 function Footer() {
   const links = [
-    { name: '@leerob', url: 'https://x.com/leeerob' },
-    { name: 'youtube', url: 'https://www.youtube.com/@leerob' },
-    { name: 'linkedin', url: 'https://www.linkedin.com/in/leeerob' },
-    { name: 'github', url: 'https://github.com/leerob' },
+    { name: 'resume', url: 'https://drive.google.com/file/d/1Qrou_hJtdRGeXJZ4WlgWf-kEq3bBVsHd/view?usp=sharing' },
+    { name: 'email', url: 'mailto:bsriram.004@gmail.com' },
+    { name: 'linkedin', url: 'https://www.linkedin.com/in/sri-ram-reddy-2912a7202/' },
+    { name: 'github', url: 'https://github.com/spambug' },
   ];
 
   return (
