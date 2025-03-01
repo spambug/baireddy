@@ -21,7 +21,7 @@ export function NameTransition() {
             ))}
           </span>
           <span className="inline-block absolute left-0 top-0 transition-all duration-300 ease-in-out translate-y-full group-hover:translate-y-0">
-            {'Sri Ram'.split('').map((letter, index) => (
+            {'Sri ram'.split('').map((letter, index) => (
               <span
                 key={index}
                 className="inline-block"
