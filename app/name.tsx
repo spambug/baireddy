@@ -10,7 +10,7 @@ export function NameTransition() {
           className="block overflow-hidden group relative"
         >
           <span className="inline-block transition-all duration-300 ease-in-out group-hover:-translate-y-full whitespace-nowrap">
-            {'Lee Robinson'.split('').map((letter, index) => (
+            {'Sri Ram Reddy'.split('').map((letter, index) => (
               <span
                 key={index}
                 className="inline-block"
@@ -21,7 +21,7 @@ export function NameTransition() {
             ))}
           </span>
           <span className="inline-block absolute left-0 top-0 transition-all duration-300 ease-in-out translate-y-full group-hover:translate-y-0">
-            {'leerob'.split('').map((letter, index) => (
+            {'Sri Ram'.split('').map((letter, index) => (
               <span
                 key={index}
                 className="inline-block"
