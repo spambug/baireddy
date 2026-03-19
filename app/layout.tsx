@@ -40,7 +40,7 @@ export default function RootLayout({
 
 function Footer() {
   const links = [
-    { name: 'resume', url: 'https://drive.google.com/file/d/1Qrou_hJtdRGeXJZ4WlgWf-kEq3bBVsHd/view?usp=sharing' },
+    { name: 'resume', url: 'https://drive.google.com/file/d/1YPWPOjwkUZAlQ6Yr9oE-iSBHUBp8Lv0H/view?usp=sharing' },
     { name: 'email', url: 'mailto:bsriram.004@gmail.com' },
     { name: 'linkedin', url: 'https://www.linkedin.com/in/sri-ram-reddy-2912a7202/' },
     { name: 'github', url: 'https://github.com/spambug' },
